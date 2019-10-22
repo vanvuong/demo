@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "hotels": [
+    {
+      "name": "ACB",
+      "address": "HCM",
+      "id": 1,
+    }
+  ]
 }
